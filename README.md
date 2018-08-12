@@ -6,3 +6,6 @@ sinta
 nat
 din
 tes
+
+ni
+
