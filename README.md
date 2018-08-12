@@ -4,3 +4,5 @@ ci nike
 nani
 sinta
 nat
+din
+tes
